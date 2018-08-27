@@ -22,3 +22,11 @@ Isso para casos específicos, caso não, poderia colocar todos os estilos em uma
 
 
 6) block, inline, inline-block, none, list-item e table.
+
+7) A Diferença é que no inline não pode ser definido weight e width, enquanto no inline-block é possível.
+
+8)Relativa: é possível pocisionar com: top, right, left, bottom, e mesmo utilizando essas propriedados ele vai se mover, porém a sua posição original é preservada e o elemento seguinte não ocupa esse espaço, Fixa: O elemento é posicionada de forma fixa não se movendo conforme o rolar da página, e é sempre renderizado no canto superior esquerdo da página, Absoluta: essa propriedade retira o elemento da sua posição original, sendo assim o elemento a seguir irá ocupar o seu espaço, Estática: nada acontece com essa opção os elementos continuam onde foram renderizados.
+
+9) Os métodos call e apply facilitam que você escreva um método e componha outros objetos, uma boa definição é que esta feature  proporciona emprestar um método, onde você pode definir uma função atribuída no contexto global sem mesmo ter um objeto ou classe como owner, e você pode tomar emprestado métodos de outros objetos ou classes.
+
+10)O "==" compara "resultados", já o "===" compara valores e tipos sendo assim uma condição só seria true se a comparacação fosse com true.
