@@ -10,3 +10,11 @@ Isso para casos específicos, caso não, poderia colocar todos os estilos em uma
   3ª forma: utilizar arquivos de estilos e de escripts em diretórios separados da página, pois assim os mesmos ficam em cache no browser, diminuindo os pedidos HTTP.
   
   3) Uma das ferramentas seria o Loadster, w3c validator, porém conheço também o NeoLoad.
+  
+  4) Os blocos de construção de uma página HTML5 são: <head>, <body>, e dentro desses os principais são HEADER
+Define um grupo de títulos ou o cabeçalho de uma determinada seção.
+FOOTER,
+ NAV,
+ ASIDE,
+ ARTICLE,
+ SECTION.
