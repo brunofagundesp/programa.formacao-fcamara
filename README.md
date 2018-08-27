@@ -11,9 +11,8 @@ Isso para casos específicos, caso não, poderia colocar todos os estilos em uma
   
   3) Uma das ferramentas seria o Loadster, w3c validator, porém conheço também o NeoLoad.
   
-  4) Os blocos de construção de uma página HTML5 são: <head>, <body>, e dentro desses os principais são HEADER
-Define um grupo de títulos ou o cabeçalho de uma determinada seção.
-FOOTER,
+  4) Os blocos de construção de uma página HTML5 são: <head>, <body>, e dentro desses os principais são HEADER,
+ FOOTER,
  NAV,
  ASIDE,
  ARTICLE,
