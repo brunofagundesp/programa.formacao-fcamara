@@ -19,3 +19,6 @@ Isso para casos específicos, caso não, poderia colocar todos os estilos em uma
  SECTION.
  
  5) A principal diferença entre os métodos GET e POST são a questão da visibilidade, em quanto o método GET a informação é anexada na URL e visível aos que estão acessando o site o método POST é enviado e encapsulado no corpo da requisição HTTP e não pode ser vista. 
+
+
+6) block, inline, inline-block, none, list-item e table.
